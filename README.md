@@ -1,1 +1,1 @@
-# WasteVision-YOLOv5
+# WasteVision-YOLO26
