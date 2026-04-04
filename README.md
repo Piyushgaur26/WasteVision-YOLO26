@@ -16,7 +16,6 @@ Built with scalability and reproducibility in mind, the project strictly adheres
 *   **Automated Data Pipeline:** Securely fetches, extracts, and routes dataset splits from Google Drive utilizing `gdown`.
 *   **Custom Logging & Exception Handling:** Features an advanced tracking system using Python's `logging` and custom `sys` exceptions to isolate pipeline errors and capture timestamped execution logs.
 *   **Interactive Web App:** Includes a user-friendly Flask interface supporting both static image uploads (`/predict`) and live web-camera inferencing (`/live`).
-*   **Containerized Environment:** The entire application and its dependencies are packaged into a Docker container for seamless cross-platform execution.
 
 ## 🛠️ Technologies Used
 *   **Machine Learning/Computer Vision:** YOLO26, OpenCV, PyTorch
